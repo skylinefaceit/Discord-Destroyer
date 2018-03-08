@@ -8,7 +8,7 @@ const packageVersion = require("./package.json").version;
 // Settings for the bot.
 const settings = {
     botToken: "NDIxMzk1NDU0MDk4NjY5NTc5.DYMmnQ._b5ivJZTLjHnGQoULusJqdUmn-E",
-    guildID: "421397107719536651",
+    guildID: "417724533433434122",
     guildName: "yer mom gay"
 };
 
